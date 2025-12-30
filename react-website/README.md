@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="react-website/public/images/img18.png" alt="BM Chat Logo" width="100"/>
+</p>
+
 # Agrovera Web Application
 
 A full-stack web application developed by **Rahma Jerbi**  for managing members, payments, and agricultural production data.  
