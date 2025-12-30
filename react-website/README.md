@@ -2,7 +2,7 @@
   <img src="./public/images/img18.png" alt="Agrovera Logo" width="250"/>
 </p>
 
-# Agrovera Web Application
+# Agrovera
 
 A full-stack web application developed by **Rahma Jerbi**  for managing members, payments, and agricultural production data.  
 This project includes a **public-facing website** and a **dashboard** for admins to monitor members and payments with interactive charts.
