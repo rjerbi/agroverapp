@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./public/images/img18.png" alt="Agrovera Logo" width="200"/>
+  <img src="./public/images/img18.png" alt="Agrovera Logo" width="250"/>
 </p>
 
 # Agrovera Web Application
